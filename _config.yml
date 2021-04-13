@@ -1,16 +1,16 @@
 # Site settings
-title: Ayush Jain
-description: Personal Website of Ayush Jain
+title: Ronak Shah
+description: Operations Research | Quantitative Finance
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Ayush Jain
-user_description: Remember back in middle school we were taught system of equations, equalities and inequalities? It was so much fun, drawing shaded region in a two dimensional piece of paper. At that point I had no idea I could make a living out of it until I came across Operations Research. Now, I do similar things on a much larger scale, using sophisticated algorithms for real world problems. I work as an Optimization modeler in supply chain for a manufacturing company in Seattle, Washington.
-user_title: Optimization Modeler
-email: ayushj94@bu.edu
+username: Ronak Shah
+user_description: I’m currently a Master’s student at Stony Brook University where I’m majoring in Applied Math and Statistics with Special focus on Optimization and Operations Research. I’ve experience working with Retail, Hospitality and Logistics. I also have an interest in writing Fantasy Fiction, worldbuilding and Conlanging.
+user_title: Data Science
+email: me@ronshah.tk
 # twitter_username: lorem_ipsum
-github_username:  ayushjain1594
+github_username:  hbk-ronak
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
